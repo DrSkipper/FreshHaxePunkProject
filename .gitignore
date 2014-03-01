@@ -1,0 +1,10 @@
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Obj folder
+obj/
+
+# SublimeText workspace
+*.sublime-workspace
